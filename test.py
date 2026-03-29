@@ -1,2 +1,1 @@
-print("Hello Github")
-print("Hello world")
+print("Hello from my local computer!")
